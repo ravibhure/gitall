@@ -1,495 +1,660 @@
 [submodule "agent-plugins"]
 	path = agent-plugins
 	url = https://github.com/opsgit/agent-plugins
+  branch = master
 [submodule "ansible-2"]
 	path = ansible-2
 	url = https://github.com/opsgit/ansible-2
+  branch = master
 [submodule "ansible-best-practices"]
 	path = ansible-best-practices
 	url = https://github.com/opsgit/ansible-best-practices
+  branch = master
 [submodule "ansible-csv2hosts"]
 	path = ansible-csv2hosts
 	url = https://github.com/opsgit/ansible-csv2hosts
+  branch = master
 [submodule "ansible-django"]
 	path = ansible-django
 	url = https://github.com/opsgit/ansible-django
+  branch = master
 [submodule "ansible-examples"]
 	path = ansible-examples
 	url = https://github.com/opsgit/ansible-examples
+  branch = master
 [submodule "ansible-for-rubyists"]
 	path = ansible-for-rubyists
 	url = https://github.com/opsgit/ansible-for-rubyists
+  branch = master
 [submodule "ansible-known_hosts"]
 	path = ansible-known_hosts
 	url = https://github.com/opsgit/ansible-known_hosts
+  branch = master
 [submodule "ansible-lint"]
 	path = ansible-lint
 	url = https://github.com/opsgit/ansible-lint
+  branch = master
 [submodule "ansible-m-dnsupdate"]
 	path = ansible-m-dnsupdate
 	url = https://github.com/opsgit/ansible-m-dnsupdate
+  branch = master
 [submodule "ansible-nodejs"]
 	path = ansible-nodejs
 	url = https://github.com/opsgit/ansible-nodejs
+  branch = master
 [submodule "ansible-plugins"]
 	path = ansible-plugins
 	url = https://github.com/opsgit/ansible-plugins
+  branch = master
 [submodule "ansible-profile"]
 	path = ansible-profile
 	url = https://github.com/opsgit/ansible-profile
+  branch = master
 [submodule "ansible-provisioning"]
 	path = ansible-provisioning
 	url = https://github.com/opsgit/ansible-provisioning
+  branch = master
 [submodule "ansible-report"]
 	path = ansible-report
 	url = https://github.com/opsgit/ansible-report
+  branch = master
 [submodule "ansible-role-bind"]
 	path = ansible-role-bind
 	url = https://github.com/opsgit/ansible-role-bind
+  branch = master
 [submodule "ansible-shell"]
 	path = ansible-shell
 	url = https://github.com/opsgit/ansible-shell
+  branch = master
 [submodule "ansible-tuto"]
 	path = ansible-tuto
 	url = https://github.com/opsgit/ansible-tuto
+  branch = master
 [submodule "ansible-vagrant-examples"]
 	path = ansible-vagrant-examples
 	url = https://github.com/opsgit/ansible-vagrant-examples
+  branch = master
 [submodule "ansible-vsrx-demo"]
 	path = ansible-vsrx-demo
 	url = https://github.com/opsgit/ansible-vsrx-demo
+  branch = master
 [submodule "ansible-yaml-inventory"]
 	path = ansible-yaml-inventory
 	url = https://github.com/opsgit/ansible-yaml-inventory
+  branch = master
 [submodule "ansible_cluster"]
 	path = ansible_cluster
 	url = https://github.com/opsgit/ansible_cluster
+  branch = master
 [submodule "ansible_inventory"]
 	path = ansible_inventory
 	url = https://github.com/opsgit/ansible_inventory
+  branch = master
 [submodule "apps.fp.o"]
 	path = apps.fp.o
 	url = https://github.com/opsgit/apps.fp.o
+  branch = master
 [submodule "apt-s3"]
 	path = apt-s3
 	url = https://github.com/opsgit/apt-s3
+  branch = master
 [submodule "astraeus"]
 	path = astraeus
 	url = https://github.com/opsgit/astraeus
+  branch = master
 [submodule "aws-cli"]
 	path = aws-cli
 	url = https://github.com/opsgit/aws-cli
+  branch = master
 [submodule "Bash-Admin-Scripts"]
 	path = Bash-Admin-Scripts
 	url = https://github.com/opsgit/Bash-Admin-Scripts
+  branch = master
 [submodule "bash-it"]
 	path = bash-it
 	url = https://github.com/opsgit/bash-it
+  branch = master
 [submodule "bashcheck"]
 	path = bashcheck
 	url = https://github.com/opsgit/bashcheck
+  branch = master
 [submodule "basic-docker-omd"]
 	path = basic-docker-omd
 	url = https://github.com/opsgit/basic-docker-omd
+  branch = master
 [submodule "bento"]
 	path = bento
 	url = https://github.com/opsgit/bento
+  branch = master
 [submodule "blag"]
 	path = blag
 	url = https://github.com/opsgit/blag
+  branch = master
 [submodule "blueprint"]
 	path = blueprint
 	url = https://github.com/opsgit/blueprint
+  branch = master
 [submodule "bonding"]
 	path = bonding
 	url = https://github.com/opsgit/bonding
+  branch = master
 [submodule "buildout"]
 	path = buildout
 	url = https://github.com/opsgit/buildout
+  branch = master
 [submodule "centos-spec"]
 	path = centos-spec
 	url = https://github.com/opsgit/centos-spec
+  branch = master
 [submodule "check_mk"]
 	path = check_mk
 	url = https://github.com/opsgit/check_mk
+  branch = master
 [submodule "check_mk-1"]
 	path = check_mk-1
 	url = https://github.com/opsgit/check_mk-1
+  branch = master
 [submodule "check_mk-plugins"]
 	path = check_mk-plugins
 	url = https://github.com/opsgit/check_mk-plugins
+  branch = master
 [submodule "chef-plugin"]
 	path = chef-plugin
 	url = https://github.com/opsgit/chef-plugin
+  branch = master
 [submodule "chef-provisioning"]
 	path = chef-provisioning
 	url = https://github.com/opsgit/chef-provisioning
+  branch = master
 [submodule "chef-repo"]
 	path = chef-repo
 	url = https://github.com/opsgit/chef-repo
+  branch = master
 [submodule "chef-solo"]
 	path = chef-solo
 	url = https://github.com/opsgit/chef-solo
+  branch = master
 [submodule "chef-taste"]
 	path = chef-taste
 	url = https://github.com/opsgit/chef-taste
+  branch = master
 [submodule "chefdash"]
 	path = chefdash
 	url = https://github.com/opsgit/chefdash
+  branch = master
 [submodule "chefsolo"]
 	path = chefsolo
 	url = https://github.com/opsgit/chefsolo
+  branch = master
 [submodule "clb"]
 	path = clb
 	url = https://github.com/opsgit/clb
+  branch = master
 [submodule "cobbler"]
 	path = cobbler
 	url = https://github.com/opsgit/cobbler
+  branch = master
 [submodule "Continuous-Integration-services"]
 	path = Continuous-Integration-services
 	url = https://github.com/opsgit/Continuous-Integration-services
+  branch = master
 [submodule "cosmic"]
 	path = cosmic
 	url = https://github.com/opsgit/cosmic
+  branch = master
 [submodule "dashboard"]
 	path = dashboard
 	url = https://github.com/opsgit/dashboard
+  branch = master
 [submodule "dds-server"]
 	path = dds-server
 	url = https://github.com/opsgit/dds-server
+  branch = master
 [submodule "deis"]
 	path = deis
 	url = https://github.com/opsgit/deis
+  branch = master
 [submodule "django-allauth"]
 	path = django-allauth
 	url = https://github.com/opsgit/django-allauth
+  branch = master
 [submodule "do-install-button"]
 	path = do-install-button
 	url = https://github.com/opsgit/do-install-button
+  branch = master
 [submodule "docker-selenium"]
 	path = docker-selenium
 	url = https://github.com/opsgit/docker-selenium
+  branch = master
 [submodule "doproxy"]
 	path = doproxy
 	url = https://github.com/opsgit/doproxy
+  branch = master
 [submodule "EC2Box"]
 	path = EC2Box
 	url = https://github.com/opsgit/EC2Box
+  branch = master
 [submodule "fabric"]
 	path = fabric
 	url = https://github.com/opsgit/fabric
+  branch = master
 [submodule "farmer"]
 	path = farmer
 	url = https://github.com/opsgit/farmer
+  branch = master
 [submodule "fwadmin"]
 	path = fwadmin
 	url = https://github.com/opsgit/fwadmin
+  branch = master
 [submodule "ginas"]
 	path = ginas
 	url = https://github.com/opsgit/ginas
+  branch = master
 [submodule "git-hooks"]
 	path = git-hooks
 	url = https://github.com/opsgit/git-hooks
+  branch = master
 [submodule "gitlabhq"]
 	path = gitlabhq
 	url = https://github.com/opsgit/gitlabhq
+  branch = master
 [submodule "graphios"]
 	path = graphios
 	url = https://github.com/opsgit/graphios
+  branch = master
 [submodule "graphital"]
 	path = graphital
 	url = https://github.com/opsgit/graphital
+  branch = master
 [submodule "graphite-observer"]
 	path = graphite-observer
 	url = https://github.com/opsgit/graphite-observer
+  branch = master
 [submodule "hacks"]
 	path = hacks
 	url = https://github.com/opsgit/hacks
+  branch = master
 [submodule "halite"]
 	path = halite
 	url = https://github.com/opsgit/halite
+  branch = master
 [submodule "haproxy"]
 	path = haproxy
 	url = https://github.com/opsgit/haproxy
+  branch = master
 [submodule "haproxy-1"]
 	path = haproxy-1
 	url = https://github.com/opsgit/haproxy-1
+  branch = master
 [submodule "haproxy-2"]
 	path = haproxy-2
 	url = https://github.com/opsgit/haproxy-2
+  branch = master
 [submodule "haproxy-ansible"]
 	path = haproxy-ansible
 	url = https://github.com/opsgit/haproxy-ansible
+  branch = master
 [submodule "haproxy-aws"]
 	path = haproxy-aws
 	url = https://github.com/opsgit/haproxy-aws
+  branch = master
 [submodule "haproxy-configurator"]
 	path = haproxy-configurator
 	url = https://github.com/opsgit/haproxy-configurator
+  branch = master
 [submodule "haproxy-dconv"]
 	path = haproxy-dconv
 	url = https://github.com/opsgit/haproxy-dconv
+  branch = master
 [submodule "haproxy-monitor"]
 	path = haproxy-monitor
 	url = https://github.com/opsgit/haproxy-monitor
+  branch = master
 [submodule "haproxy-patches"]
 	path = haproxy-patches
 	url = https://github.com/opsgit/haproxy-patches
+  branch = master
 [submodule "haproxy-remote"]
 	path = haproxy-remote
 	url = https://github.com/opsgit/haproxy-remote
+  branch = master
 [submodule "haproxy-tools"]
 	path = haproxy-tools
 	url = https://github.com/opsgit/haproxy-tools
+  branch = master
 [submodule "haproxy-webctl"]
 	path = haproxy-webctl
 	url = https://github.com/opsgit/haproxy-webctl
+  branch = master
 [submodule "HAProxyAPI"]
 	path = HAProxyAPI
 	url = https://github.com/opsgit/HAProxyAPI
+  branch = master
 [submodule "HAProxyCloud"]
 	path = HAProxyCloud
 	url = https://github.com/opsgit/HAProxyCloud
+  branch = master
 [submodule "haproxyctl"]
 	path = haproxyctl
 	url = https://github.com/opsgit/haproxyctl
+  branch = master
 [submodule "haproxy_manager"]
 	path = haproxy_manager
 	url = https://github.com/opsgit/haproxy_manager
+  branch = master
 [submodule "haproxy_to_sql"]
 	path = haproxy_to_sql
 	url = https://github.com/opsgit/haproxy_to_sql
+  branch = master
 [submodule "HCCDashboard"]
 	path = HCCDashboard
 	url = https://github.com/opsgit/HCCDashboard
+  branch = master
 [submodule "HostDB"]
 	path = HostDB
 	url = https://github.com/opsgit/HostDB
+  branch = master
 [submodule "huginn"]
 	path = huginn
 	url = https://github.com/opsgit/huginn
+  branch = master
 [submodule "images"]
 	path = images
 	url = https://github.com/opsgit/images
+  branch = master
 [submodule "infra"]
 	path = infra
 	url = https://github.com/opsgit/infra
+  branch = master
 [submodule "jetfire"]
 	path = jetfire
 	url = https://github.com/opsgit/jetfire
+  branch = master
 [submodule "kitchen"]
 	path = kitchen
 	url = https://github.com/opsgit/kitchen
+  branch = master
 [submodule "knife-zero"]
 	path = knife-zero
 	url = https://github.com/opsgit/knife-zero
+  branch = master
 [submodule "knock"]
 	path = knock
 	url = https://github.com/opsgit/knock
+  branch = master
 [submodule "lattice-terraform"]
 	path = lattice-terraform
 	url = https://github.com/opsgit/lattice-terraform
+  branch = master
 [submodule "learning-tools"]
 	path = learning-tools
 	url = https://github.com/opsgit/learning-tools
+  branch = master
 [submodule "logan"]
 	path = logan
 	url = https://github.com/opsgit/logan
+  branch = master
 [submodule "lxcfs"]
 	path = lxcfs
 	url = https://github.com/opsgit/lxcfs
+  branch = master
 [submodule "mctop"]
 	path = mctop
 	url = https://github.com/opsgit/mctop
+  branch = master
 [submodule "monitoring-with-graphite"]
 	path = monitoring-with-graphite
 	url = https://github.com/opsgit/monitoring-with-graphite
+  branch = master
 [submodule "monitoringplug"]
 	path = monitoringplug
 	url = https://github.com/opsgit/monitoringplug
+  branch = master
 [submodule "mysql_role_swap"]
 	path = mysql_role_swap
 	url = https://github.com/opsgit/mysql_role_swap
+  branch = master
 [submodule "nagios"]
 	path = nagios
 	url = https://github.com/opsgit/nagios
+  branch = master
 [submodule "nagios-herald"]
 	path = nagios-herald
 	url = https://github.com/opsgit/nagios-herald
+  branch = master
 [submodule "nagios-plugin-check_domain"]
 	path = nagios-plugin-check_domain
 	url = https://github.com/opsgit/nagios-plugin-check_domain
+  branch = master
 [submodule "nagios-plugin-check_sphinx"]
 	path = nagios-plugin-check_sphinx
 	url = https://github.com/opsgit/nagios-plugin-check_sphinx
+  branch = master
 [submodule "nagios-plugins"]
 	path = nagios-plugins
 	url = https://github.com/opsgit/nagios-plugins
+  branch = master
 [submodule "nagios-status-rackspace"]
 	path = nagios-status-rackspace
 	url = https://github.com/opsgit/nagios-status-rackspace
+  branch = master
 [submodule "nagiosharder"]
 	path = nagiosharder
 	url = https://github.com/opsgit/nagiosharder
+  branch = master
 [submodule "openstack-centos-kvm-glusterfs"]
 	path = openstack-centos-kvm-glusterfs
 	url = https://github.com/opsgit/openstack-centos-kvm-glusterfs
+  branch = master
 [submodule "opsadmin"]
 	path = opsadmin
 	url = https://github.com/opsgit/opsadmin
+  branch = master
 [submodule "opsweekly"]
 	path = opsweekly
 	url = https://github.com/opsgit/opsweekly
+  branch = master
 [submodule "os-ansible-deployment"]
 	path = os-ansible-deployment
 	url = https://github.com/opsgit/os-ansible-deployment
+  branch = master
 [submodule "packer"]
 	path = packer
 	url = https://github.com/opsgit/packer
+  branch = master
 [submodule "packer-windows"]
 	path = packer-windows
 	url = https://github.com/opsgit/packer-windows
+  branch = master
 [submodule "pkg-nagios-plugins-contrib"]
 	path = pkg-nagios-plugins-contrib
 	url = https://github.com/opsgit/pkg-nagios-plugins-contrib
+  branch = master
 [submodule "puma"]
 	path = puma
 	url = https://github.com/opsgit/puma
+  branch = master
 [submodule "puppet-bootstrap"]
 	path = puppet-bootstrap
 	url = https://github.com/opsgit/puppet-bootstrap
+  branch = master
 [submodule "remirepo"]
 	path = remirepo
 	url = https://github.com/opsgit/remirepo
+  branch = master
 [submodule "rest_connection"]
 	path = rest_connection
 	url = https://github.com/opsgit/rest_connection
+  branch = master
 [submodule "resume"]
 	path = resume
 	url = https://github.com/opsgit/resume
+  branch = master
 [submodule "rhaproxy"]
 	path = rhaproxy
 	url = https://github.com/opsgit/rhaproxy
+  branch = master
 [submodule "rolespec"]
 	path = rolespec
 	url = https://github.com/opsgit/rolespec
+  branch = master
 [submodule "rpms"]
 	path = rpms
 	url = https://github.com/opsgit/rpms
+  branch = master
 [submodule "rs-haproxycfg"]
 	path = rs-haproxycfg
 	url = https://github.com/opsgit/rs-haproxycfg
+  branch = master
 [submodule "sai"]
 	path = sai
 	url = https://github.com/opsgit/sai
+  branch = master
 [submodule "salt-bootstrap"]
 	path = salt-bootstrap
 	url = https://github.com/opsgit/salt-bootstrap
+  branch = master
 [submodule "salt-config-example"]
 	path = salt-config-example
 	url = https://github.com/opsgit/salt-config-example
+  branch = master
 [submodule "salt-ldap"]
 	path = salt-ldap
 	url = https://github.com/opsgit/salt-ldap
+  branch = master
 [submodule "salt-pillar-base"]
 	path = salt-pillar-base
 	url = https://github.com/opsgit/salt-pillar-base
+  branch = master
 [submodule "salt-state-graph"]
 	path = salt-state-graph
 	url = https://github.com/opsgit/salt-state-graph
+  branch = master
 [submodule "salt-states"]
 	path = salt-states
 	url = https://github.com/opsgit/salt-states
+  branch = master
 [submodule "salt-states-1"]
 	path = salt-states-1
 	url = https://github.com/opsgit/salt-states-1
+  branch = master
 [submodule "salt-states-2"]
 	path = salt-states-2
 	url = https://github.com/opsgit/salt-states-2
+  branch = master
 [submodule "salt-states-base"]
 	path = salt-states-base
 	url = https://github.com/opsgit/salt-states-base
+  branch = master
 [submodule "salt-ui"]
 	path = salt-ui
 	url = https://github.com/opsgit/salt-ui
+  branch = master
 [submodule "saltcli"]
 	path = saltcli
 	url = https://github.com/opsgit/saltcli
+  branch = master
 [submodule "serf"]
 	path = serf
 	url = https://github.com/opsgit/serf
+  branch = master
 [submodule "server-playbooks"]
 	path = server-playbooks
 	url = https://github.com/opsgit/server-playbooks
+  branch = master
 [submodule "serverspec"]
 	path = serverspec
 	url = https://github.com/opsgit/serverspec
+  branch = master
 [submodule "shell_scripts"]
 	path = shell_scripts
 	url = https://github.com/opsgit/shell_scripts
+  branch = master
 [submodule "simple-nagios-dashboard"]
 	path = simple-nagios-dashboard
 	url = https://github.com/opsgit/simple-nagios-dashboard
+  branch = master
 [submodule "sovereign"]
 	path = sovereign
 	url = https://github.com/opsgit/sovereign
+  branch = master
 [submodule "speedtest-cli"]
 	path = speedtest-cli
 	url = https://github.com/opsgit/speedtest-cli
+  branch = master
 [submodule "st"]
 	path = st
 	url = https://github.com/opsgit/st
+  branch = master
 [submodule "states"]
 	path = states
 	url = https://github.com/opsgit/states
+  branch = master
 [submodule "storm"]
 	path = storm
 	url = https://github.com/opsgit/storm
+  branch = master
 [submodule "stresser"]
 	path = stresser
 	url = https://github.com/opsgit/stresser
+  branch = master
 [submodule "sysadmin"]
 	path = sysadmin
 	url = https://github.com/opsgit/sysadmin
+  branch = master
 [submodule "team_dashboard"]
 	path = team_dashboard
 	url = https://github.com/opsgit/team_dashboard
+  branch = master
 [submodule "terraform-examples"]
 	path = terraform-examples
 	url = https://github.com/opsgit/terraform-examples
+  branch = master
 [submodule "the-ansibles"]
 	path = the-ansibles
 	url = https://github.com/opsgit/the-ansibles
+  branch = master
 [submodule "thor"]
 	path = thor
 	url = https://github.com/opsgit/thor
+  branch = master
 [submodule "troposphere"]
 	path = troposphere
 	url = https://github.com/opsgit/troposphere
+  branch = master
 [submodule "twemproxy"]
 	path = twemproxy
 	url = https://github.com/opsgit/twemproxy
+  branch = master
 [submodule "typo"]
 	path = typo
 	url = https://github.com/opsgit/typo
+  branch = master
 [submodule "vagrant-centos"]
 	path = vagrant-centos
 	url = https://github.com/opsgit/vagrant-centos
+  branch = master
 [submodule "varnish-bans-manager"]
 	path = varnish-bans-manager
 	url = https://github.com/opsgit/varnish-bans-manager
+  branch = master
 [submodule "WebSocket-Node"]
 	path = WebSocket-Node
 	url = https://github.com/opsgit/WebSocket-Node
+  branch = master
 [submodule "windows-fromscratch"]
 	path = windows-fromscratch
 	url = https://github.com/opsgit/windows-fromscratch
+  branch = master
 [submodule "workshop"]
 	path = workshop
 	url = https://github.com/opsgit/workshop
+  branch = master
 [submodule "wsh"]
 	path = wsh
 	url = https://github.com/opsgit/wsh
+  branch = master
 [submodule "YOURLS"]
 	path = YOURLS
 	url = https://github.com/opsgit/YOURLS
+  branch = master

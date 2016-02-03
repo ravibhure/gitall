@@ -1,0 +1,495 @@
+[submodule "agent-plugins"]
+	path = agent-plugins
+	url = https://github.com/opsgit/agent-plugins
+[submodule "ansible-2"]
+	path = ansible-2
+	url = https://github.com/opsgit/ansible-2
+[submodule "ansible-best-practices"]
+	path = ansible-best-practices
+	url = https://github.com/opsgit/ansible-best-practices
+[submodule "ansible-csv2hosts"]
+	path = ansible-csv2hosts
+	url = https://github.com/opsgit/ansible-csv2hosts
+[submodule "ansible-django"]
+	path = ansible-django
+	url = https://github.com/opsgit/ansible-django
+[submodule "ansible-examples"]
+	path = ansible-examples
+	url = https://github.com/opsgit/ansible-examples
+[submodule "ansible-for-rubyists"]
+	path = ansible-for-rubyists
+	url = https://github.com/opsgit/ansible-for-rubyists
+[submodule "ansible-known_hosts"]
+	path = ansible-known_hosts
+	url = https://github.com/opsgit/ansible-known_hosts
+[submodule "ansible-lint"]
+	path = ansible-lint
+	url = https://github.com/opsgit/ansible-lint
+[submodule "ansible-m-dnsupdate"]
+	path = ansible-m-dnsupdate
+	url = https://github.com/opsgit/ansible-m-dnsupdate
+[submodule "ansible-nodejs"]
+	path = ansible-nodejs
+	url = https://github.com/opsgit/ansible-nodejs
+[submodule "ansible-plugins"]
+	path = ansible-plugins
+	url = https://github.com/opsgit/ansible-plugins
+[submodule "ansible-profile"]
+	path = ansible-profile
+	url = https://github.com/opsgit/ansible-profile
+[submodule "ansible-provisioning"]
+	path = ansible-provisioning
+	url = https://github.com/opsgit/ansible-provisioning
+[submodule "ansible-report"]
+	path = ansible-report
+	url = https://github.com/opsgit/ansible-report
+[submodule "ansible-role-bind"]
+	path = ansible-role-bind
+	url = https://github.com/opsgit/ansible-role-bind
+[submodule "ansible-shell"]
+	path = ansible-shell
+	url = https://github.com/opsgit/ansible-shell
+[submodule "ansible-tuto"]
+	path = ansible-tuto
+	url = https://github.com/opsgit/ansible-tuto
+[submodule "ansible-vagrant-examples"]
+	path = ansible-vagrant-examples
+	url = https://github.com/opsgit/ansible-vagrant-examples
+[submodule "ansible-vsrx-demo"]
+	path = ansible-vsrx-demo
+	url = https://github.com/opsgit/ansible-vsrx-demo
+[submodule "ansible-yaml-inventory"]
+	path = ansible-yaml-inventory
+	url = https://github.com/opsgit/ansible-yaml-inventory
+[submodule "ansible_cluster"]
+	path = ansible_cluster
+	url = https://github.com/opsgit/ansible_cluster
+[submodule "ansible_inventory"]
+	path = ansible_inventory
+	url = https://github.com/opsgit/ansible_inventory
+[submodule "apps.fp.o"]
+	path = apps.fp.o
+	url = https://github.com/opsgit/apps.fp.o
+[submodule "apt-s3"]
+	path = apt-s3
+	url = https://github.com/opsgit/apt-s3
+[submodule "astraeus"]
+	path = astraeus
+	url = https://github.com/opsgit/astraeus
+[submodule "aws-cli"]
+	path = aws-cli
+	url = https://github.com/opsgit/aws-cli
+[submodule "Bash-Admin-Scripts"]
+	path = Bash-Admin-Scripts
+	url = https://github.com/opsgit/Bash-Admin-Scripts
+[submodule "bash-it"]
+	path = bash-it
+	url = https://github.com/opsgit/bash-it
+[submodule "bashcheck"]
+	path = bashcheck
+	url = https://github.com/opsgit/bashcheck
+[submodule "basic-docker-omd"]
+	path = basic-docker-omd
+	url = https://github.com/opsgit/basic-docker-omd
+[submodule "bento"]
+	path = bento
+	url = https://github.com/opsgit/bento
+[submodule "blag"]
+	path = blag
+	url = https://github.com/opsgit/blag
+[submodule "blueprint"]
+	path = blueprint
+	url = https://github.com/opsgit/blueprint
+[submodule "bonding"]
+	path = bonding
+	url = https://github.com/opsgit/bonding
+[submodule "buildout"]
+	path = buildout
+	url = https://github.com/opsgit/buildout
+[submodule "centos-spec"]
+	path = centos-spec
+	url = https://github.com/opsgit/centos-spec
+[submodule "check_mk"]
+	path = check_mk
+	url = https://github.com/opsgit/check_mk
+[submodule "check_mk-1"]
+	path = check_mk-1
+	url = https://github.com/opsgit/check_mk-1
+[submodule "check_mk-plugins"]
+	path = check_mk-plugins
+	url = https://github.com/opsgit/check_mk-plugins
+[submodule "chef-plugin"]
+	path = chef-plugin
+	url = https://github.com/opsgit/chef-plugin
+[submodule "chef-provisioning"]
+	path = chef-provisioning
+	url = https://github.com/opsgit/chef-provisioning
+[submodule "chef-repo"]
+	path = chef-repo
+	url = https://github.com/opsgit/chef-repo
+[submodule "chef-solo"]
+	path = chef-solo
+	url = https://github.com/opsgit/chef-solo
+[submodule "chef-taste"]
+	path = chef-taste
+	url = https://github.com/opsgit/chef-taste
+[submodule "chefdash"]
+	path = chefdash
+	url = https://github.com/opsgit/chefdash
+[submodule "chefsolo"]
+	path = chefsolo
+	url = https://github.com/opsgit/chefsolo
+[submodule "clb"]
+	path = clb
+	url = https://github.com/opsgit/clb
+[submodule "cobbler"]
+	path = cobbler
+	url = https://github.com/opsgit/cobbler
+[submodule "Continuous-Integration-services"]
+	path = Continuous-Integration-services
+	url = https://github.com/opsgit/Continuous-Integration-services
+[submodule "cosmic"]
+	path = cosmic
+	url = https://github.com/opsgit/cosmic
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/opsgit/dashboard
+[submodule "dds-server"]
+	path = dds-server
+	url = https://github.com/opsgit/dds-server
+[submodule "deis"]
+	path = deis
+	url = https://github.com/opsgit/deis
+[submodule "django-allauth"]
+	path = django-allauth
+	url = https://github.com/opsgit/django-allauth
+[submodule "do-install-button"]
+	path = do-install-button
+	url = https://github.com/opsgit/do-install-button
+[submodule "docker-selenium"]
+	path = docker-selenium
+	url = https://github.com/opsgit/docker-selenium
+[submodule "doproxy"]
+	path = doproxy
+	url = https://github.com/opsgit/doproxy
+[submodule "EC2Box"]
+	path = EC2Box
+	url = https://github.com/opsgit/EC2Box
+[submodule "fabric"]
+	path = fabric
+	url = https://github.com/opsgit/fabric
+[submodule "farmer"]
+	path = farmer
+	url = https://github.com/opsgit/farmer
+[submodule "fwadmin"]
+	path = fwadmin
+	url = https://github.com/opsgit/fwadmin
+[submodule "ginas"]
+	path = ginas
+	url = https://github.com/opsgit/ginas
+[submodule "git-hooks"]
+	path = git-hooks
+	url = https://github.com/opsgit/git-hooks
+[submodule "gitlabhq"]
+	path = gitlabhq
+	url = https://github.com/opsgit/gitlabhq
+[submodule "graphios"]
+	path = graphios
+	url = https://github.com/opsgit/graphios
+[submodule "graphital"]
+	path = graphital
+	url = https://github.com/opsgit/graphital
+[submodule "graphite-observer"]
+	path = graphite-observer
+	url = https://github.com/opsgit/graphite-observer
+[submodule "hacks"]
+	path = hacks
+	url = https://github.com/opsgit/hacks
+[submodule "halite"]
+	path = halite
+	url = https://github.com/opsgit/halite
+[submodule "haproxy"]
+	path = haproxy
+	url = https://github.com/opsgit/haproxy
+[submodule "haproxy-1"]
+	path = haproxy-1
+	url = https://github.com/opsgit/haproxy-1
+[submodule "haproxy-2"]
+	path = haproxy-2
+	url = https://github.com/opsgit/haproxy-2
+[submodule "haproxy-ansible"]
+	path = haproxy-ansible
+	url = https://github.com/opsgit/haproxy-ansible
+[submodule "haproxy-aws"]
+	path = haproxy-aws
+	url = https://github.com/opsgit/haproxy-aws
+[submodule "haproxy-configurator"]
+	path = haproxy-configurator
+	url = https://github.com/opsgit/haproxy-configurator
+[submodule "haproxy-dconv"]
+	path = haproxy-dconv
+	url = https://github.com/opsgit/haproxy-dconv
+[submodule "haproxy-monitor"]
+	path = haproxy-monitor
+	url = https://github.com/opsgit/haproxy-monitor
+[submodule "haproxy-patches"]
+	path = haproxy-patches
+	url = https://github.com/opsgit/haproxy-patches
+[submodule "haproxy-remote"]
+	path = haproxy-remote
+	url = https://github.com/opsgit/haproxy-remote
+[submodule "haproxy-tools"]
+	path = haproxy-tools
+	url = https://github.com/opsgit/haproxy-tools
+[submodule "haproxy-webctl"]
+	path = haproxy-webctl
+	url = https://github.com/opsgit/haproxy-webctl
+[submodule "HAProxyAPI"]
+	path = HAProxyAPI
+	url = https://github.com/opsgit/HAProxyAPI
+[submodule "HAProxyCloud"]
+	path = HAProxyCloud
+	url = https://github.com/opsgit/HAProxyCloud
+[submodule "haproxyctl"]
+	path = haproxyctl
+	url = https://github.com/opsgit/haproxyctl
+[submodule "haproxy_manager"]
+	path = haproxy_manager
+	url = https://github.com/opsgit/haproxy_manager
+[submodule "haproxy_to_sql"]
+	path = haproxy_to_sql
+	url = https://github.com/opsgit/haproxy_to_sql
+[submodule "HCCDashboard"]
+	path = HCCDashboard
+	url = https://github.com/opsgit/HCCDashboard
+[submodule "HostDB"]
+	path = HostDB
+	url = https://github.com/opsgit/HostDB
+[submodule "huginn"]
+	path = huginn
+	url = https://github.com/opsgit/huginn
+[submodule "images"]
+	path = images
+	url = https://github.com/opsgit/images
+[submodule "infra"]
+	path = infra
+	url = https://github.com/opsgit/infra
+[submodule "jetfire"]
+	path = jetfire
+	url = https://github.com/opsgit/jetfire
+[submodule "kitchen"]
+	path = kitchen
+	url = https://github.com/opsgit/kitchen
+[submodule "knife-zero"]
+	path = knife-zero
+	url = https://github.com/opsgit/knife-zero
+[submodule "knock"]
+	path = knock
+	url = https://github.com/opsgit/knock
+[submodule "lattice-terraform"]
+	path = lattice-terraform
+	url = https://github.com/opsgit/lattice-terraform
+[submodule "learning-tools"]
+	path = learning-tools
+	url = https://github.com/opsgit/learning-tools
+[submodule "logan"]
+	path = logan
+	url = https://github.com/opsgit/logan
+[submodule "lxcfs"]
+	path = lxcfs
+	url = https://github.com/opsgit/lxcfs
+[submodule "mctop"]
+	path = mctop
+	url = https://github.com/opsgit/mctop
+[submodule "monitoring-with-graphite"]
+	path = monitoring-with-graphite
+	url = https://github.com/opsgit/monitoring-with-graphite
+[submodule "monitoringplug"]
+	path = monitoringplug
+	url = https://github.com/opsgit/monitoringplug
+[submodule "mysql_role_swap"]
+	path = mysql_role_swap
+	url = https://github.com/opsgit/mysql_role_swap
+[submodule "nagios"]
+	path = nagios
+	url = https://github.com/opsgit/nagios
+[submodule "nagios-herald"]
+	path = nagios-herald
+	url = https://github.com/opsgit/nagios-herald
+[submodule "nagios-plugin-check_domain"]
+	path = nagios-plugin-check_domain
+	url = https://github.com/opsgit/nagios-plugin-check_domain
+[submodule "nagios-plugin-check_sphinx"]
+	path = nagios-plugin-check_sphinx
+	url = https://github.com/opsgit/nagios-plugin-check_sphinx
+[submodule "nagios-plugins"]
+	path = nagios-plugins
+	url = https://github.com/opsgit/nagios-plugins
+[submodule "nagios-status-rackspace"]
+	path = nagios-status-rackspace
+	url = https://github.com/opsgit/nagios-status-rackspace
+[submodule "nagiosharder"]
+	path = nagiosharder
+	url = https://github.com/opsgit/nagiosharder
+[submodule "openstack-centos-kvm-glusterfs"]
+	path = openstack-centos-kvm-glusterfs
+	url = https://github.com/opsgit/openstack-centos-kvm-glusterfs
+[submodule "opsadmin"]
+	path = opsadmin
+	url = https://github.com/opsgit/opsadmin
+[submodule "opsweekly"]
+	path = opsweekly
+	url = https://github.com/opsgit/opsweekly
+[submodule "os-ansible-deployment"]
+	path = os-ansible-deployment
+	url = https://github.com/opsgit/os-ansible-deployment
+[submodule "packer"]
+	path = packer
+	url = https://github.com/opsgit/packer
+[submodule "packer-windows"]
+	path = packer-windows
+	url = https://github.com/opsgit/packer-windows
+[submodule "pkg-nagios-plugins-contrib"]
+	path = pkg-nagios-plugins-contrib
+	url = https://github.com/opsgit/pkg-nagios-plugins-contrib
+[submodule "puma"]
+	path = puma
+	url = https://github.com/opsgit/puma
+[submodule "puppet-bootstrap"]
+	path = puppet-bootstrap
+	url = https://github.com/opsgit/puppet-bootstrap
+[submodule "remirepo"]
+	path = remirepo
+	url = https://github.com/opsgit/remirepo
+[submodule "rest_connection"]
+	path = rest_connection
+	url = https://github.com/opsgit/rest_connection
+[submodule "resume"]
+	path = resume
+	url = https://github.com/opsgit/resume
+[submodule "rhaproxy"]
+	path = rhaproxy
+	url = https://github.com/opsgit/rhaproxy
+[submodule "rolespec"]
+	path = rolespec
+	url = https://github.com/opsgit/rolespec
+[submodule "rpms"]
+	path = rpms
+	url = https://github.com/opsgit/rpms
+[submodule "rs-haproxycfg"]
+	path = rs-haproxycfg
+	url = https://github.com/opsgit/rs-haproxycfg
+[submodule "sai"]
+	path = sai
+	url = https://github.com/opsgit/sai
+[submodule "salt-bootstrap"]
+	path = salt-bootstrap
+	url = https://github.com/opsgit/salt-bootstrap
+[submodule "salt-config-example"]
+	path = salt-config-example
+	url = https://github.com/opsgit/salt-config-example
+[submodule "salt-ldap"]
+	path = salt-ldap
+	url = https://github.com/opsgit/salt-ldap
+[submodule "salt-pillar-base"]
+	path = salt-pillar-base
+	url = https://github.com/opsgit/salt-pillar-base
+[submodule "salt-state-graph"]
+	path = salt-state-graph
+	url = https://github.com/opsgit/salt-state-graph
+[submodule "salt-states"]
+	path = salt-states
+	url = https://github.com/opsgit/salt-states
+[submodule "salt-states-1"]
+	path = salt-states-1
+	url = https://github.com/opsgit/salt-states-1
+[submodule "salt-states-2"]
+	path = salt-states-2
+	url = https://github.com/opsgit/salt-states-2
+[submodule "salt-states-base"]
+	path = salt-states-base
+	url = https://github.com/opsgit/salt-states-base
+[submodule "salt-ui"]
+	path = salt-ui
+	url = https://github.com/opsgit/salt-ui
+[submodule "saltcli"]
+	path = saltcli
+	url = https://github.com/opsgit/saltcli
+[submodule "serf"]
+	path = serf
+	url = https://github.com/opsgit/serf
+[submodule "server-playbooks"]
+	path = server-playbooks
+	url = https://github.com/opsgit/server-playbooks
+[submodule "serverspec"]
+	path = serverspec
+	url = https://github.com/opsgit/serverspec
+[submodule "shell_scripts"]
+	path = shell_scripts
+	url = https://github.com/opsgit/shell_scripts
+[submodule "simple-nagios-dashboard"]
+	path = simple-nagios-dashboard
+	url = https://github.com/opsgit/simple-nagios-dashboard
+[submodule "sovereign"]
+	path = sovereign
+	url = https://github.com/opsgit/sovereign
+[submodule "speedtest-cli"]
+	path = speedtest-cli
+	url = https://github.com/opsgit/speedtest-cli
+[submodule "st"]
+	path = st
+	url = https://github.com/opsgit/st
+[submodule "states"]
+	path = states
+	url = https://github.com/opsgit/states
+[submodule "storm"]
+	path = storm
+	url = https://github.com/opsgit/storm
+[submodule "stresser"]
+	path = stresser
+	url = https://github.com/opsgit/stresser
+[submodule "sysadmin"]
+	path = sysadmin
+	url = https://github.com/opsgit/sysadmin
+[submodule "team_dashboard"]
+	path = team_dashboard
+	url = https://github.com/opsgit/team_dashboard
+[submodule "terraform-examples"]
+	path = terraform-examples
+	url = https://github.com/opsgit/terraform-examples
+[submodule "the-ansibles"]
+	path = the-ansibles
+	url = https://github.com/opsgit/the-ansibles
+[submodule "thor"]
+	path = thor
+	url = https://github.com/opsgit/thor
+[submodule "troposphere"]
+	path = troposphere
+	url = https://github.com/opsgit/troposphere
+[submodule "twemproxy"]
+	path = twemproxy
+	url = https://github.com/opsgit/twemproxy
+[submodule "typo"]
+	path = typo
+	url = https://github.com/opsgit/typo
+[submodule "vagrant-centos"]
+	path = vagrant-centos
+	url = https://github.com/opsgit/vagrant-centos
+[submodule "varnish-bans-manager"]
+	path = varnish-bans-manager
+	url = https://github.com/opsgit/varnish-bans-manager
+[submodule "WebSocket-Node"]
+	path = WebSocket-Node
+	url = https://github.com/opsgit/WebSocket-Node
+[submodule "windows-fromscratch"]
+	path = windows-fromscratch
+	url = https://github.com/opsgit/windows-fromscratch
+[submodule "workshop"]
+	path = workshop
+	url = https://github.com/opsgit/workshop
+[submodule "wsh"]
+	path = wsh
+	url = https://github.com/opsgit/wsh
+[submodule "YOURLS"]
+	path = YOURLS
+	url = https://github.com/opsgit/YOURLS
